@@ -1,2 +1,4 @@
 # Custom Website
-**If you really want to, I don't mind anybody stealing my source. Just a logger hidden in a website, nothing too special.**
+## Files & Configuration For My Website Created In HTML, CSS & PHP.
+
+**All source credits belong to `IEatToes2023`.**
