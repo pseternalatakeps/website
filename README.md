@@ -1,4 +1,4 @@
 # Custom Website
 ## Files & Configuration For My Website Created In HTML, CSS & PHP.
 
-**All source credits belong to `IEatToes2023`.**
+**All credits for the source goes to** `IEatToes2023`.
