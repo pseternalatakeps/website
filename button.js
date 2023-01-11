@@ -1,5 +1,4 @@
-const theButton = document.querySelector(".button");
+const btn = document.querySelector(".button");
 
-theButton.addEventListener("click", () => {
-    theButton.classList.add("button--loading");
-});
+btn.classList.add("button--loading");
+btn.classList.remove("button--loading");
